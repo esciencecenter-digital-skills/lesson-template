@@ -1,3 +1,5 @@
+# IMPORTANT: DO NOT USE THIS, FOR NEW LESSONS WE USE [THE NEW TEMPLATE](https://github.com/carpentries/workbench-template-md)
+
 # FIXME Lesson title
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
